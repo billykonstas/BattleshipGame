@@ -47,6 +47,10 @@ J10 J8
 B9 D9
 I2 J2
 ```
+The board will look like this:
+
+![alt_text](https://github.com/billykonstas/BattleshipGame/blob/main/images/input_file.png)
+
 # Turns
 Each turn the player specifies a coordinate to hit. The game informs them if they hit or missed and their turn is ended, then it's the other player's turn. If the player hits all cells of the ship, the ship is sinked.
 
