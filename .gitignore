@@ -8,3 +8,4 @@ out/production/BattleshipGame/coords.txt
 *.xml
 .idea/modules.xml
 *.xml
+BattleshipGame.iml
