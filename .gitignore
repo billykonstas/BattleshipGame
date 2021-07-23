@@ -1,0 +1,10 @@
+
+.idea/modules.xml
+.idea/misc.xml
+*.xml
+*.class
+out/production/BattleshipGame/coords2.txt
+out/production/BattleshipGame/coords.txt
+*.xml
+.idea/modules.xml
+*.xml
